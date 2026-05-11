@@ -1,4 +1,4 @@
-# NO — A Liberal CLI Manifest (Stupidly Overly Idealistic Edition)
+# NO — A Liberal CLI Manifest
 
 This is not just a program. It is an ethical stance rendered in executable form.
 
