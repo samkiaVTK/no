@@ -23,7 +23,6 @@ int main(int argc, char **argv){
             else{
                 strcat(output, "\n");
             }
-            printf(output);
         }
     }
     else{
